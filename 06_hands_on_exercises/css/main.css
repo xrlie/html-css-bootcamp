@@ -1,0 +1,7 @@
+/* Add a borders to images and sets the size*/
+
+img {
+    border: 10px groove lightblue;
+    height: 200px;
+    width: auto;
+}
