@@ -2,6 +2,11 @@
     height: 100px;
     width: 100px;
     border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../../../00_images/puppy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 img {
