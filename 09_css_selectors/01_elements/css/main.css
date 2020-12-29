@@ -1,0 +1,31 @@
+* {
+    margin: 50px;
+}
+
+html, body {
+    margin: 0;
+}
+
+header {
+    width: auto;
+    height: 100px;
+    background-color: red;
+}
+
+section {
+    width: auto;
+    height: 200px;
+    background-color: blue;
+}
+
+article {
+    width: 50%;
+    height: 100px;
+    background-color: yellow;
+}
+
+aside, footer {
+    width: auto;
+    height: 100px;
+    background-color: green;
+}
