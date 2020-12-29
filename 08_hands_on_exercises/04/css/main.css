@@ -1,0 +1,10 @@
+.my_div {
+    width: 400px;
+    height: 200px;
+    border: 10px dashed red;
+    margin: 20px auto;
+}
+
+.second_div {
+    box-sizing: border-box;
+}
