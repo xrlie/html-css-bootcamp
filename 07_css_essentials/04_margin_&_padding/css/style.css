@@ -1,0 +1,33 @@
+.my_div {
+    height: 100px;
+    width: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: 10px groove orangered;
+    padding: 20px;
+    margin: 30px;
+}
+
+.dog1 {
+    width: 300px;
+    height: auto;
+    border: 10px dotted mediumpurple;
+}
+
+.dog2 {
+    width: 300px;
+    height: auto;
+    border: 10px dashed olivedrab;
+}
+
+.dog3 {
+    width: 300px;
+    height: auto;
+    border: 10px double lightsalmon;
+}
