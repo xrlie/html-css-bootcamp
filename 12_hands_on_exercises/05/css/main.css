@@ -1,0 +1,14 @@
+body {
+    font-size: 50px;
+    text-align: justify;
+}
+
+p::first-letter {
+    color: skyblue;
+    font-weight: bold;
+    font-size: 75px;
+}
+
+p::first-line {
+    color: skyblue;
+}
