@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+[contenteditable] {
+    color: red;
+    border: 1px dashed black;
+}

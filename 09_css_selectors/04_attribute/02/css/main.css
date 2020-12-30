@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+[src] {
+    border: 10px dashed red;
+}
+
+[href] {
+    border: 2px dashed green;
+}
