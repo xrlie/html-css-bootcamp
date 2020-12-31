@@ -1,0 +1,11 @@
+.my_div {
+    width: 90%;
+    height: fit-content;
+    text-align: center;
+    border: 3px solid black;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
