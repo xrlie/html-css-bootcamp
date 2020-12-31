@@ -1,0 +1,15 @@
+p {
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-size: 1rem;
+}
+
+#one {
+
+    font-weight: 300;
+}
+#two {
+    font-weight: 500;
+}
+#three {
+    font-weight: 800;
+}
