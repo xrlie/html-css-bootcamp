@@ -1,0 +1,23 @@
+html, body {
+    border: 1px dashed hotpink;
+}
+
+.my_div {
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+#one {
+    background-color: #ff0000;
+}
+
+#two {
+    background-color: #0000ff;
+}
+#three {
+    background-color: #ffd700;
+}
+#four {
+    background-color: #308014;
+}
