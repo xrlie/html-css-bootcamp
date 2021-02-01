@@ -1,0 +1,27 @@
+body {
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.my_div, nav {
+    border: 2px solid red;
+}
+
+.my_div {
+    width: auto;
+    height: 50px;
+    background-color: cornflowerblue;
+}
+
+nav {
+    width: auto;
+    height: auto;
+    background-color: darkgrey;
+}
