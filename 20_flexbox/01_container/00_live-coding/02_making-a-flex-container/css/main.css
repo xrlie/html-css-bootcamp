@@ -1,0 +1,14 @@
+.my_div {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 5px solid goldenrod;
+}
+
+body {
+    display: flex;
+    /* default settigns */
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+    flex-wrap: wrap;
+}
