@@ -1,0 +1,13 @@
+body {
+    border: 2px solid red;
+    display: flex;
+    justify-content: flex-end;
+}
+.my_div {
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: 1px solid red;
+    background-color: darkgrey;
+    text-align: center;
+}
