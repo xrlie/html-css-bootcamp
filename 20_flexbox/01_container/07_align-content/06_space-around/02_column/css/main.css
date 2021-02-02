@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-flow: column wrap;
+    /* align-items: stretch; */
+    align-content: space-around;
+    height: calc(100vh - 16px);
+    /* width: 150px; */
+    /* height: 300px; */
+    border: 2px solid red;
+    box-sizing: border-box;
+}
+
+div {
+    height: 100px;
+    width: calc((100% / 8) - 34px);
+    /* width: 93.9%; */
+    margin: 1em;
+    border: 1px solid red;
+    background-color: darkgrey;
+    text-align: center;
+}
