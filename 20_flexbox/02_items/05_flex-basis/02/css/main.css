@@ -1,0 +1,25 @@
+body {
+    display: flex;
+}
+
+div {
+    border: 2px solid black;
+    height: 100px;
+    flex-basis: 33%;
+}
+
+/* 
+Flex-basis always sets the width.
+The three flex-items in this example are always 33% each
+Flex-grow and flex-shrink do nothing
+*/
+
+.flex1 {
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.flex2 {
+    flex-grow: 2;
+    flex-shrink: 8;
+}
