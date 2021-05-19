@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multiple Media won't work</title>
+  <link rel="stylesheet" href="print.css" media="print">
+  <!-- The next link won't work - you can't have multiple media types -->
+  <link rel="stylesheet" href="multiple.css" media="screen and print">
+  <!-- The next link does work -->
+  <link rel="stylesheet" href="multiple.css" media="all">
+</head>
+<body>
+  
+  <h1>BORDER ME WHEN PRINTED</h1>
+
+  <p>If multiple media types could be used in a media query, I would have a border when on screen and when printed.</p>
+
+</body>
+</html>
