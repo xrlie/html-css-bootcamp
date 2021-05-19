@@ -1,0 +1,12 @@
+nav {
+  width: 15%;
+}
+
+main {
+  width: 85%;
+}
+
+ul {
+  flex-flow: column nowrap;
+  align-items: center;
+}
