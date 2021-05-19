@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 80%;
+  border: 5px solid red;
+  margin: 276px auto;
+  /* overflow: hidden; */
+}
+
+h1 {
+  color: blue;
+  font-size: 32px;
+}
