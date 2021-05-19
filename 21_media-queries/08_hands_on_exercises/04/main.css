@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 80%;
+  border: 5px solid red;
+  margin: 169.75px auto;
+  /* overflow: hidden; */
+}
+
+h1, h2 {
+  text-align: center;
+  font-size: 32px;
+}
