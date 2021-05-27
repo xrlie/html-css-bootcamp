@@ -1,0 +1,19 @@
+.c1 {
+  color: #fff;
+  background-color: rgb(14, 62, 151);
+}
+
+.c2 {
+  color: #fff;
+  background-color: rgb(34, 103, 231);
+}
+
+.c3 {
+  color: #fff;
+  background-color: cornflowerblue;
+}
+
+.c4 {
+  border: 2px solid red;
+  box-sizing: border-box;
+}
