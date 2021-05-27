@@ -1,0 +1,15 @@
+body {
+  width: 750px;
+}
+
+div:nth-child(even), div:nth-child(odd) {
+  width: 25%;
+}
+
+div:nth-child(6), div:nth-child(7) {
+  width: 50%;
+}
+
+div:first-child, div:last-child {
+  width: 100%;
+}

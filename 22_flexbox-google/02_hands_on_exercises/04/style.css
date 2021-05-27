@@ -1,0 +1,24 @@
+div {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div:nth-child(odd) {
+  background-color: cornflowerblue;
+  background-image: url(https://picsum.photos/id/237/182/125);
+}
+
+div:first-child {
+  background-color: crimson;
+  background-image: url(https://picsum.photos/id/10/730/125);
+}
+
+div:nth-child(even) {
+  background-color: darkgray;
+  background-image: url(https://picsum.photos/id/1003/182/125);
+}
+
+div:last-child {
+  background-color: crimson;
+  background-image: url(https://picsum.photos/id/103/730/125);
+}
