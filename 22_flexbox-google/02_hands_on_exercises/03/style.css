@@ -1,0 +1,15 @@
+div:nth-child(odd) {
+  background-color: cornflowerblue;
+}
+
+div:first-child {
+  background-color: crimson;
+}
+
+div:nth-child(even) {
+  background-color: darkgray;
+}
+
+div:last-child {
+  background-color: crimson;
+}

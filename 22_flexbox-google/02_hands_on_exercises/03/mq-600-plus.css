@@ -1,0 +1,13 @@
+div:nth-child(even) {
+  width: 50%;
+  order: 3;
+}
+
+div:nth-child(odd) {
+  width: 50%;
+  order: 2;
+}
+
+div:last-child, div:first-child {
+  width: 100%;
+}
